@@ -1,8 +1,8 @@
 // Author: William Provost
 // Version: 1.0.0
-// Date: 2025-11-28
-// Fileoverview: This program calculates how many years it will take 
-// for a bank account to reach a target amount based on yearly interest
+// Date: 2025-11-29
+// Fileoverview: This program calculates how many years it will take
+// for a bank account to reach a target amount based on yearly interest.
 
 package main
 
